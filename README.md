@@ -18,12 +18,16 @@ This repository contains the following files:
 
 - README.md (this readme file)
 - GEM-collection_MAGs_annotation.ipynb containing the code for the plotting of the MAGs terminal reductase data
-- The hmm profiles used to annotate the MAGs downloaded from [the JGI GEM collection](https://genome.jgi.doe.gov/portal/GEMs/GEMs.home.html). 
-- The individual results from the hmmer3 search obtained using the follwing command: ```hmmsearch --cpu 12 --tblout results_table_gene.txt MODEL.hmm.gz GEM_combined_mags.faa.gz > results_gene.log```
+- hmm_moldes folder, containing the hmm profiles used to annotate the MAGs downloaded from [the JGI GEM collection](https://genome.jgi.doe.gov/portal/GEMs/GEMs.home.html). 
+- hmm_moldes folder, containing the individual results from the hmmer3 search obtained using the follwing command: ```hmmsearch --cpu 12 --tblout results_table_gene.txt MODEL.hmm.gz GEM_combined_mags.faa.gz > results_gene.log```
+- Ecoli_k12_DH5.fna containing the nucleotide fasta file of the _E. coli_ genome
+- Ecoli_k12_DH5.gff containign the gff annotation of the _E. coli_ genome
 - Ecoli_growth_data.csv containing the growth experiment data for _E. coli_
 - Bsubtili_growth_data.csv containing the growth experiment data for _Bacillus subtilis_
 - Sbacillaris_growth_data.csv containing the growth experiment data for _Stichococcus bacillaris_
+- Sbacillaris_rETR_data.csv containiong the rETR data from S. bacillaris
 - IPCMS_metal_data.csv containing the results of the ICP-MS trace metal data
+- DE_proteins_proteome folder, contaning the tables of the differentially expressed genes at the 3 time points 
 
 Please cite as:
 
