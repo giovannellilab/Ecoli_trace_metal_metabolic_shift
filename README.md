@@ -12,7 +12,7 @@
 
 
 Data and code relative to the Ricciardelli et al. 2024 manuscript on the effect of trace metals in controlling the metabolic shifts between alternative electron acceptors in _Escherichia coli_ and other oganisms. 
-The _E. coli_ genome is available in NCBI under project PRJNA1129478, while the proteomic data are available in the PRoteomics IDEntifications (PRIDE) database (https://www.ebi.ac.uk/pride/) at the European Bioinformatics Institute (EMBL-EBI, Hinxton, Cambridge, UK) with accession number XXXXXXXXX.
+The _E. coli_ genome is available in NCBI under project PRJEB85325, while the proteomic data are available in the PRoteomics IDEntifications (PRIDE) database (https://www.ebi.ac.uk/pride/) at the European Bioinformatics Institute (EMBL-EBI, Hinxton, Cambridge, UK) with accession number PXD059598.
 
 This repository contains the following files:
 
