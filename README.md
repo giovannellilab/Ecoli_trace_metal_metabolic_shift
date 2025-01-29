@@ -31,4 +31,4 @@ This repository contains the following files:
 
 Please cite as:
 
-Annarita Ricciardelli, Benoit de Pins, Jacopo Brusca, Monica Correggia, Luciano Di Iorio, Martina Cascone, Marco Giardina, Stefany Castaldi, Rachele Isticato, Roberta Iacono, Marco Moracci, Nunzia Nappi, Antonino Pollio, Costantino Vetriani, Serena Leone, Angelina Cordone, Donato Giovannelli1. 2024. Trace elements availability controls terminal electron acceptor utilization in Escherichia coli. _BioArXiv_
+Annarita Ricciardelli, Benoit de Pins, Jacopo Brusca, Monica Correggia, Luciano Di Iorio, Martina Cascone, Marco Giardina, Stefany Castaldi, Rachele Isticato, Roberta Iacono, Marco Moracci, Nunzia Nappi, Antonino Pollio, Costantino Vetriani, Serena Leone, Angelina Cordone, Donato Giovannelli1. 2025. Trace elements availability controls terminal electron acceptor utilization in Escherichia coli. _BioArXiv_ https://doi.org/10.1101/2025.01.08.631794
